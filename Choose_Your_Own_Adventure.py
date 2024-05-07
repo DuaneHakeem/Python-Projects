@@ -9,7 +9,7 @@ if answer == "left":
     if answer == "swim":
         print("You swam across and were eaten by an alligator.")
     elif answer == "walk":
-        print("You walked for many miles, ran out of water and you lost the game
+        print("You walked for many miles, ran out of water and you lost the game")
     else:
         print("Not a valid option. You lose.")
                 
